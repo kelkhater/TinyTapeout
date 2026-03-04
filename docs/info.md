@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a board with 8 inputs that are controlled by a switch inputs 1 and 2 are coinnected to a AND gate. this then connects to a display
+the rest of the inputs are directly connected the final input to the display is an inverter of input 2
 
 ## How to test
 
-Explain how to use your project
+just play with the switches its two logic gates
 
 ## External hardware
 
